@@ -1,0 +1,24 @@
+{
+  "name": "@wniemiec-component-reactnative/action-button",
+  "version": "1.0.0",
+  "description": "Simple button.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wniemiec-components-reactnative/action-button.git"
+  },
+  "keywords": [
+    "wniemiec",
+    "component",
+    "reactnative",
+    "action-button",
+    "action",
+    "button"
+  ],
+  "author": "William Niemiec <williamniemiec@hotmail.com> (https://www.linkedin.com/in/williamniemiec)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wniemiec-components-reactnative/action-button/issues"
+  },
+  "homepage": "https://github.com/wniemiec-components-reactnative/action-button#readme"
+}
